@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 preprocessed_traffic_data.csv
+.DS_Store
+
