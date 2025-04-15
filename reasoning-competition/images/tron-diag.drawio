@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
+  <diagram name="Страница — 1" id="LkGLF-T3t343gJq5W913">
+    <mxGraphModel dx="1216" dy="776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#8CE5A0;" edge="1" parent="1" source="qlQUXgSOdhqOvPfNDoC8-2" target="qlQUXgSOdhqOvPfNDoC8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#8CE5A0;" edge="1" parent="1" source="qlQUXgSOdhqOvPfNDoC8-16" target="qlQUXgSOdhqOvPfNDoC8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Instruct / Completion LLM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#8CE5A0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A0C9F3;" edge="1" parent="1" source="qlQUXgSOdhqOvPfNDoC8-12" target="qlQUXgSOdhqOvPfNDoC8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#A0C9F3;" edge="1" parent="1" source="qlQUXgSOdhqOvPfNDoC8-16" target="qlQUXgSOdhqOvPfNDoC8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TRON-trained&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reasoning Model&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFB481;" vertex="1" parent="1">
+          <mxGeometry x="324" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;GRPO / PPO Reasoning Model&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A0C9F3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-24" value="&lt;b&gt;What is the capital of France?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlQUXgSOdhqOvPfNDoC8-25" value="&lt;b&gt;What is the meaning of life?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
