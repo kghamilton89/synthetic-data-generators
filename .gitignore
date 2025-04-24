@@ -176,3 +176,4 @@ cython_debug/
 preprocessed_traffic_data.csv
 .DS_Store
 /reasoning-competition/*.csv
+*.mp3
