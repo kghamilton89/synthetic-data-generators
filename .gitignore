@@ -177,3 +177,5 @@ preprocessed_traffic_data.csv
 .DS_Store
 /reasoning-competition/*.csv
 *.mp3
+
+synthetic_vc_financial_decisions_reasoning_dataset
