@@ -1,6 +1,6 @@
-# Synthetic Data Generators
+# Synthetic & Mock Data Generators
 
-A curated collection of synthetic data generation pipelines leveraging state-of-the-art tools such as Bespoke Labs Curator, MOSTLY AI, and Argilla's Distilabel. This repository provides modular, reproducible, and scalable workflows for generating high-quality synthetic datasets for use in machine learning, testing, and privacy-preserving analytics.
+A curated collection of synthetic and mock data generation pipelines leveraging state-of-the-art tools such as Bespoke Labs Curator, MOSTLY AI, and Argilla's Distilabel. This repository provides modular, reproducible, and scalable workflows for generating high-quality synthetic and mock datasets for use in machine learning, testing, and privacy-preserving analytics.
 
 ---
 
@@ -23,7 +23,7 @@ A curated collection of synthetic data generation pipelines leveraging state-of-
 
 ## Overview
 
-Synthetic data offers solutions to common challenges in real-world datasets, including privacy constraints, bias correction, and class imbalance. This repository brings together tools and templates for generating synthetic data in various formats—structured tables, natural language datasets, and multimodal sources—using advanced open-source and enterprise-ready frameworks.
+Synthetic and mock data offer solutions to common challenges in real-world datasets, including privacy constraints, bias correction, and class imbalance. This repository brings together tools and templates for generating synthetic and mock data in various formats: structured tables, natural language datasets, and multimodal sources—using advanced open-source and enterprise-ready frameworks.
 
 ---
 
